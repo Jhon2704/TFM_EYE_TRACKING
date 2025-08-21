@@ -83,6 +83,6 @@ Pull requests and suggestions are welcome!
 ## 🧑‍💻 Author
 
 **Juan Olivan Marquina
-Master's Thesis in \[University Name\]\
+Master's Thesis IN VIU
 🔗 www.linkedin.com/in/juan-olivan-9a3210176
 
